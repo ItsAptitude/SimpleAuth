@@ -8,9 +8,8 @@ namespace FreeandPremium
 {
     public partial class LoginForm : Form
     {
-        public static string hwid = WindowsIdentity.GetCurrent().User.Value;
-        public static string hwidshit = loginshit.DownloadString("https://pastebin.com/raw/5XVM2Rmm"); // Edit and change to your pastebin
-        public static WebClient loginshit = new WebClient();
+        string hwid = WindowsIdentity.GetCurrent().User.Value;
+        WebClient wc = new WebClient();
 
 
         public LoginForm()
@@ -27,7 +26,8 @@ namespace FreeandPremium
 
         private void PremiumLoginBtn_Click(object sender, EventArgs e)
         {
-            if (hwidshit.Contains(hwid))
+            string pastebinhwid = wc.DownloadString("https://pastebin.com/raw/5XVM2Rmm"); // Edit and change to your pastebin
+            if (pastebinhwid.Contains(hwid))
             {
                 MainForm main = new MainForm();
                 main.Show();
