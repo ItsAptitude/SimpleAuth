@@ -1,12 +1,29 @@
-# LoginSystem
- Simple Free and Premium Login System  | C#, .NET Framework
+# SimpleLoginSystem
+ Simple Login System  | C#, .NET Framework
 
-## How to apply ??
-![FreeandPremium_41rujoZHX5](https://user-images.githubusercontent.com/54489997/75991203-b4827300-5f28-11ea-8e1c-b3706ef79189.png)
+# Tutorial
+1. Open program. Copy the HWID that is displayed.
+2. Make a pastebin, and copy the HWID's in there.
+3. Press raw and replace the pastebin link with yours
 
-![firefox_dRBQt85BJZ](https://user-images.githubusercontent.com/54489997/75991187-ad5b6500-5f28-11ea-88f2-327b8b22a0bf.png)
 
-![firefox_5epkQ2mUM5](https://user-images.githubusercontent.com/54489997/75991429-0b884800-5f29-11ea-9dfa-9ba406b55be7.png)
+![FreeandPremium_41rujoZHX5](https://cdn.discordapp.com/attachments/661208670897438731/861585907739262976/unknown.png)
 
-![firefox_iwLZWolBbg](https://user-images.githubusercontent.com/54489997/75991486-1a6efa80-5f29-11ea-82d8-ddf4f43e2acd.png)
+![firefox_dRBQt85BJZ](https://cdn.discordapp.com/attachments/661208670897438731/861586155761041428/unknown.png)
+
+
+
+
+# Notes:
+
+This was originally created by Prab: https://github.com/NotPrab/LoginSystem
+However, that was garbage so i improved it for fun.
+
+- Better HWID Method (Spoofer Support)
+- Does Not Use Default Proxy Anymore (HTTP Debugger Protection)
+- Removed Free Login
+- General Code Improvements
+
+## Disclaimer: 
+I don't recommend using this for your applications, this was just created for fun. 
 
