@@ -9,7 +9,7 @@
 After you've made the pastebin, press raw and copy the link to the code.
 
 
-Note:
+# Notes:
 
 This was orignally created by Prab: https://github.com/NotPrab/LoginSystem
 However, that was garbage so i improved it.
@@ -18,5 +18,6 @@ However, that was garbage so i improved it.
 - Doesn't use default proxy anymore (HTTP Debugger Protection)
 - Only one login, removed "free login"
 
-## Disclaimer: I don't recommend using this for your applications, this was just created for fun. 
+## Disclaimer: 
+I don't recommend using this for your applications, this was just created for fun. 
 
