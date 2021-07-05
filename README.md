@@ -4,7 +4,7 @@
 ## How to apply ??
 ![FreeandPremium_41rujoZHX5](https://cdn.discordapp.com/attachments/661208670897438731/861585907739262976/unknown.png)
 
-![firefox_dRBQt85BJZ](https://user-images.githubusercontent.com/54489997/75991187-ad5b6500-5f28-11ea-88f2-327b8b22a0bf.png)
+![firefox_dRBQt85BJZ](![image](https://user-images.githubusercontent.com/79222443/124472357-4eb52e00-dd9e-11eb-9287-6ef5cb907889.png))
 
 ![firefox_5epkQ2mUM5](https://user-images.githubusercontent.com/54489997/75991429-0b884800-5f29-11ea-9dfa-9ba406b55be7.png)
 
