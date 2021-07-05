@@ -2,7 +2,7 @@
  Simple Free and Premium Login System  | C#, .NET Framework
 
 ## How to apply ??
-![FreeandPremium_41rujoZHX5](https://user-images.githubusercontent.com/54489997/75991203-b4827300-5f28-11ea-8e1c-b3706ef79189.png)
+![FreeandPremium_41rujoZHX5](https://cdn.discordapp.com/attachments/661208670897438731/861585907739262976/unknown.png)
 
 ![firefox_dRBQt85BJZ](https://user-images.githubusercontent.com/54489997/75991187-ad5b6500-5f28-11ea-88f2-327b8b22a0bf.png)
 
