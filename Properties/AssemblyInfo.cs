@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FreeandPremium")]
-[assembly: AssemblyDescription("Demonstrate How to apply free and premium settings on your program")]
+[assembly: AssemblyDescription("Demonstrate How to apply free and loggedin settings on your program")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("https://github.com/ItsAptitude")]
 [assembly: AssemblyProduct("FreeandPremium")]
