@@ -14,9 +14,10 @@ After you've made the pastebin, press raw and copy the link to the code.
 This was orignally created by Prab: https://github.com/NotPrab/LoginSystem
 However, that was garbage so i improved it.
 
-- Now uses better HWID grabbing method that supports spoofers
-- Doesn't use default proxy anymore (HTTP Debugger Protection)
-- Only one login, removed "free login"
+- Better HWID Method (Spoofer Support)
+- Does Not Use Default Proxy Anymore (HTTP Debugger Protection)
+- Removed Free Login
+- General Code Improvements
 
 ## Disclaimer: 
 I don't recommend using this for your applications, this was just created for fun. 
