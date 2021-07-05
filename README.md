@@ -1,5 +1,5 @@
 # SimpleLoginSystem
- Simple Free and Premium Login System  | C#, .NET Framework
+ Simple Login System  | C#, .NET Framework
 
 ## How to use ??
 ![FreeandPremium_41rujoZHX5](https://cdn.discordapp.com/attachments/661208670897438731/861585907739262976/unknown.png)
@@ -16,7 +16,7 @@ However, that was garbage so i improved it.
 
 - Now uses better HWID grabbing method that supports spoofers
 - Doesn't use default proxy anymore (HTTP Debugger Protection)
-- Only one login
+- Only one login, removed "free login"
 
-Disclaimer: I don't recommend using this for your applications, this was just created for fun. 
+## Disclaimer: I don't recommend using this for your applications, this was just created for fun. 
 
