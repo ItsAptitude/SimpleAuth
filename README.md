@@ -1,12 +1,16 @@
 # SimpleLoginSystem
  Simple Login System  | C#, .NET Framework
 
-## How to use ??
+1. Open program. copy the HWID that is displayed.
+2. Make a pastebin, and copy the HWID's in there.
+3. Press raw and replace the pastebin link with yours
+
+
 ![FreeandPremium_41rujoZHX5](https://cdn.discordapp.com/attachments/661208670897438731/861585907739262976/unknown.png)
 
 ![firefox_dRBQt85BJZ](https://cdn.discordapp.com/attachments/661208670897438731/861586155761041428/unknown.png)
 
-After you've made the pastebin, press raw and copy the link to the code.
+
 
 
 # Notes:
