@@ -1,12 +1,22 @@
-# LoginSystem
+# SimpleLoginSystem
  Simple Free and Premium Login System  | C#, .NET Framework
 
-## How to apply ??
+## How to use ??
 ![FreeandPremium_41rujoZHX5](https://cdn.discordapp.com/attachments/661208670897438731/861585907739262976/unknown.png)
 
 ![firefox_dRBQt85BJZ](https://cdn.discordapp.com/attachments/661208670897438731/861586155761041428/unknown.png)
 
-![firefox_5epkQ2mUM5](https://user-images.githubusercontent.com/54489997/75991429-0b884800-5f29-11ea-9dfa-9ba406b55be7.png)
+After you've made the pastebin, press raw and copy the link to the code.
 
-![firefox_iwLZWolBbg](https://user-images.githubusercontent.com/54489997/75991486-1a6efa80-5f29-11ea-82d8-ddf4f43e2acd.png)
+
+Note:
+
+This was orignally created by Prab: https://github.com/NotPrab/LoginSystem
+However, that was garbage so i improved it.
+
+- Now uses better HWID grabbing method that supports spoofers
+- Doesn't use default proxy anymore (HTTP Debugger Protection)
+- Only one login
+
+Disclaimer: I don't recommend using this for your applications, this was just created for fun. 
 
