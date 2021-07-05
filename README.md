@@ -2,7 +2,7 @@
  Simple Login System  | C#, .NET Framework
 
 # Tutorial
-1. Open program. copy the HWID that is displayed.
+1. Open program. Copy the HWID that is displayed.
 2. Make a pastebin, and copy the HWID's in there.
 3. Press raw and replace the pastebin link with yours
 
